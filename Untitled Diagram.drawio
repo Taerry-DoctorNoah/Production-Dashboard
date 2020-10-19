@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T12:35:05.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.43" etag="98uswB6jXJ1qNBBKPd6d" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T12:35:21.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.43" etag="_gSrWYCEQha1MZUNY-0b" version="13.8.0" type="github">
   <diagram id="JHm264D6n0CTIKpVSH6A" name="Page-1">
     <mxGraphModel dx="2857" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -983,15 +983,6 @@
             <mxPoint x="2338.00455912102" y="926.1118303297952" as="sourcePoint" />
             <mxPoint x="1233.16" y="606.25" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YOKvFycXwde4ZtzR-kjh-80" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" target="YOKvFycXwde4ZtzR-kjh-81" parent="1">
-          <mxGeometry x="440.18999999999994" y="-108.17999999999999" width="100" height="100" as="geometry">
-            <mxPoint x="1605" y="230" as="sourcePoint" />
-            <mxPoint x="540.1899999999999" y="-108.17999999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YOKvFycXwde4ZtzR-kjh-81" value="Fee" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1615" y="170" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
