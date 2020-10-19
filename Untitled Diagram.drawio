@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T12:28:32.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.43" etag="hhFJGnsBUeQL4j8Fig-k" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T12:30:35.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.43" etag="7pYo_fvcB1eQI49MpciR" version="13.8.0" type="github">
   <diagram id="JHm264D6n0CTIKpVSH6A" name="Page-1">
-    <mxGraphModel dx="3333" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1667" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -739,7 +739,7 @@
         <mxCell id="YOKvFycXwde4ZtzR-kjh-3" value="Worker" style="rounded=1;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;fillColor=#82B366;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2438.23" y="818.33" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YOKvFycXwde4ZtzR-kjh-4" value="" style="rounded=1;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;fillColor=#82B366;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="YOKvFycXwde4ZtzR-kjh-4" value="Evaluation" style="rounded=1;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;fillColor=#82B366;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2383.23" y="888.33" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YOKvFycXwde4ZtzR-kjh-5" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;fillColor=#d5e8d4;" edge="1" source="YOKvFycXwde4ZtzR-kjh-1" target="YOKvFycXwde4ZtzR-kjh-3" parent="1">
@@ -983,6 +983,15 @@
         </mxCell>
         <mxCell id="xJqOEVwWxO4FJfJMlqPR-243" value="Seller" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="790.8699999999999" y="315.59000000000003" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YOKvFycXwde4ZtzR-kjh-77" value="Salary" style="rounded=1;strokeColor=#82b366;strokeWidth=3;shadow=0;html=1;fillColor=#82B366;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2368.16" y="986.25" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YOKvFycXwde4ZtzR-kjh-78" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#82b366;html=1;fillColor=#d5e8d4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="YOKvFycXwde4ZtzR-kjh-77" parent="1" source="YOKvFycXwde4ZtzR-kjh-1">
+          <mxGeometry x="1133.16" y="606.25" width="100" height="100" as="geometry">
+            <mxPoint x="2338.00455912102" y="926.1118303297952" as="sourcePoint" />
+            <mxPoint x="1233.16" y="606.25" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
